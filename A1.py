@@ -4,4 +4,4 @@ for i in word:
         print ('A is in this word.')
         break
     else:
-        print ('A has not been found yet in this word.')
+        print ('A Has Not Been Found Yet in This Word.')
